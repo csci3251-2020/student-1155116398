@@ -11,12 +11,12 @@
 - Visit the world with Google Earth :)   
 
 ### Bucket List 
- [ ] Skydiving 
- [x] Become an early riser 
- [x] Being content with where I am 
- [x] Learn a new language 
- [ ] Travel 
- [ ] Scubadiving
+- [ ] Skydiving 
+- [x] Become an early riser 
+- [x] Being content with where I am 
+- [x] Learn a new language 
+- [ ] Travel 
+- [ ] Scubadiving
 
 ### Dos and Don'ts during COVID-19
 
@@ -25,3 +25,7 @@
 |    Wash your hands | stockpile on masks | 
 | Cover your face| panic|   
 | social distancing | believe everything on internet|    
+
+## Screenshot 
+
+![ss](./Screenshot_Commands.png)
