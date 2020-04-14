@@ -3,7 +3,7 @@
 **New to GitHub** 
 *It looks cool, but is pretty hard at the same time*  
 
-### How to kill boredom during 
+### How to kill boredom during lockdown
 - Workout  
 - Reading 
 - Baking 
